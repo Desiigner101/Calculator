@@ -1,2 +1,3 @@
 # Calculator
- My 2 months grind into this "simple" Calculator program in Python...
+tkinter imported GUI Calculator.
+Unfinished but Functional.
